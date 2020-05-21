@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - SpawnPoints
+  - Ball
+  - Light-Mesh
+  - Light-Mesh-Platform
+  - Light-Mesh-Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Goal
+  - Floor
+  - Light
+  - Player
+  - Light-Mesh-Platform
+  - Light-Mesh-Ball
+  - Lamp
+  - Misc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1403916825
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Goal
+    uniqueID: 3805901615
+    locked: 0
+  - name: Floor
+    uniqueID: 4276730069
+    locked: 0
+  - name: Player
+    uniqueID: 864370101
+    locked: 0
+  - name: Light
+    uniqueID: 2848994049
+    locked: 0
+  - name: Light-Mesh-Ball
+    uniqueID: 537847063
+    locked: 0
+  - name: Misc
+    uniqueID: 428098197
+    locked: 0
